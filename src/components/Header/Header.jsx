@@ -35,7 +35,6 @@ function Header() {
       <br />
       <br />
       <p className="dsp">A young Hustler with passion for coding</p>
-      <p className="dsp">A young Hustler with passion for coding</p>
       <p className="dsp">MERN developer with problem solving skills</p>
       <p className="dsp">Enjoys working closely with people</p>
       <br />
