@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Reception For Hospitals",
+    "sub": "An application that is based on MERN",
+    "about": [
+      "Technologies used: HTML ,CSS, JavaScript, React js, Node js, Mongodb, Chakra UI.",
+      "In this project, I created some forms and the data of them are received by a server and stored in the MongoDB database and the data is received from the database and rendered on the page",
+      "Authentication using Firebase.",
+      "Features in Progress:",
+      "Filter based on the field of specialization",
+      "Filter that checks if the Doctor is free on that particular date."
+    ],
+    "link": "https://github.com/Pradeep7976/Reception-with-chakra"
+  },
+  {
+    "name": "Reception For Hospitals",
+    "sub": "An application that is based on MERN",
+    "about": [
+      "Technologies used: HTML ,CSS, JavaScript, React js, Node js, Mongodb, Chakra UI.",
+      "In this project, I created some forms and the data of them are received by a server and stored in the MongoDB database and the data is received from the database and rendered on the page",
+      "Authentication using Firebase.",
+      "Features in Progress:",
+      "Filter based on the field of specialization",
+      "Filter that checks if the Doctor is free on that particular date."
+    ],
+    "link": "https://github.com/Pradeep7976/Reception-with-chakra"
+  },
+  {
+    "name": "Reception For Hospitals",
+    "sub": "An application that is based on MERN",
+    "about": [
+      "Technologies used: HTML ,CSS, JavaScript, React js, Node js, Mongodb, Chakra UI.",
+      "In this project, I created some forms and the data of them are received by a server and stored in the MongoDB database and the data is received from the database and rendered on the page",
+      "Authentication using Firebase.",
+      "Features in Progress:",
+      "Filter based on the field of specialization",
+      "Filter that checks if the Doctor is free on that particular date."
+    ],
+    "link": "https://github.com/Pradeep7976/Reception-with-chakra"
+  }
+]

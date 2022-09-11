@@ -1,0 +1,33 @@
+.Header {
+  color: black;
+  /* display: flex; */
+  margin-left: 40vh;
+  margin-right: 10vw;
+  font-family: "Libre Baskerville", serif;
+}
+.Header1 {
+  display: inline-block;
+  margin-top: 36vh;
+  font-size: 2rem;
+  font-family: "Libre Baskerville", serif;
+}
+.dsp {
+  color: black;
+  margin-left: 42vh;
+  font-size: 1.3rem;
+  font-family: "Rubik", sans-serif;
+}
+.name {
+  margin-left: 40vh;
+  color: rgb(40, 201, 241);
+  font-size: 2rem;
+  font-weight: 700;
+  font-family: "Libre Baskerville", serif;
+}
+.img1 {
+  display: inline-block;
+  margin-top: 8vh;
+  margin-left: 3vh;
+  width: 22rem;
+  float: right;
+}

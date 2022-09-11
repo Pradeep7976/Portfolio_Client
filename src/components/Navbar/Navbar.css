@@ -1,0 +1,13 @@
+.navbar {
+  margin-top: 5vh;
+  float: right;
+  display: flex;
+  padding-right: 4rem;
+  list-style-type: none;
+  font-size: large;
+  max-height: 2vh;
+}
+.navcomp {
+  padding-right: 2rem;
+  color: black;
+}

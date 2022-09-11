@@ -1,0 +1,17 @@
+.fieldheads1 {
+  /* padding-top: 36vh; */
+  font-size: 2rem;
+  padding-left: 6vw;
+  padding-bottom: 0vw !important ;
+  margin-bottom: -4rem !important;
+  font-weight: 600;
+  color: #286f82;
+}
+.li {
+  padding-top: 0vh;
+  padding-left: 7vw;
+  font-weight: 600;
+}
+.padding {
+  padding-bottom: 0.7vh;
+}

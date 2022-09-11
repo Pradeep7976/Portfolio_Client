@@ -1,0 +1,36 @@
+[
+  {
+    "title": "STRENGTHS",
+    "arr": [
+      "Learning new things at a faster pace and excelling in them",
+      "Molding myself In a Team."
+    ]
+  },
+  {
+    "title": "ACHIEVEMENTS",
+    "arr": [
+      "Hackerrank",
+      "2 silver Badges (3 stars in problem-solving and 3 stars in language)",
+      "Codechef",
+      "A star coder in CodeChef ."
+    ]
+  },
+  {
+    "title": "AREAS OF INTERESTS",
+    "arr": [
+      "Web Development ,  Riding",
+      "Video editing,    Photo Editing",
+      "Cinematography"
+    ]
+  },
+  {
+    "title": "SKILLS",
+    "arr": [
+      "Firebase-authentication",
+      "Mongo DB",
+      "Cinematography",
+      "Node.JS",
+      "JSON"
+    ]
+  }
+]
