@@ -8,7 +8,7 @@ function Field1() {
   return (
     <div className="Field1">
       <SimpleGrid columns={[1, 2, 2]} spacingY="25vh">
-        {CardFdat.map((Carddat, index) => {
+        {CardFdat.map((Carddat) => {
           return <CardF title={Carddat.title} points={Carddat.arr} />;
         })}
       </SimpleGrid>

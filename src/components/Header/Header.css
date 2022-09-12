@@ -13,7 +13,7 @@
 }
 .dsp {
   color: black;
-  margin-left: 42vh;
+  /* margin-left: 42vh; */
   font-size: 1.3rem;
   font-family: "Rubik", sans-serif;
 }
@@ -25,9 +25,5 @@
   font-family: "Libre Baskerville", serif;
 }
 .img1 {
-  display: inline-block;
-  margin-top: 8vh;
-  margin-left: 3vh;
   width: 22rem;
-  float: right;
 }

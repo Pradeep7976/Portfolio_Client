@@ -11,3 +11,13 @@
   padding-right: 2rem;
   color: black;
 }
+
+.Navbar {
+  max-width: 100vw !important;
+}
+
+@media screen and (max-width: 200px) {
+  .Navbar {
+    min-width: 100vw;
+  }
+}

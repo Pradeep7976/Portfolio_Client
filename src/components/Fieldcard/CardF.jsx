@@ -6,12 +6,12 @@ function CardF(props) {
   return (
     <div className="CardF">
       <h1 className="fieldheads1">{props.title}</h1>
+      <br />
       <div className="li">
-        {point.map((p, index) => {
+        {point.map((p) => {
           return <li>{p}</li>;
         })}
       </div>
-      ;
     </div>
   );
 }

@@ -6,7 +6,7 @@ import { BsGithub } from "react-icons/bs";
 
 function Projcard(props) {
   return (
-    <Center py={6}>
+    <Center py={6} className="projbox">
       <Box
         maxW={"80vw"}
         w={"full"}
@@ -28,6 +28,7 @@ function Projcard(props) {
         >
           {props.dat.name}
         </Text>
+
         <Text paddingLeft={2} textAlign={"left"} fontWeight={"600"}>
           {props.dat.sub}
         </Text>
